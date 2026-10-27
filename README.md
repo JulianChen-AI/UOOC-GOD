@@ -2,6 +2,8 @@
 
 # UOOC-GOD · 优课之神
 
+[项目展示](https://julianchen-ai.github.io/UOOC-GOD/) · [下载源码](https://github.com/JulianChen-AI/UOOC-GOD/archive/refs/heads/main.zip)
+
 **UOOC 刷课，到此为止。**
 
 深大人自己的 UOOC 刷课神器。按课程名勾选，三门同时开跑，AI 自动答题。把刷课交给它，把时间留给自己。
