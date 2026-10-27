@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#eef3fb"/><path d="M805 0H1280V640H1020Z" fill="#dfe9fa"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif">
+<rect x="72" y="68" width="48" height="48" rx="14" fill="#245bd6"/><text x="96" y="102" fill="white" text-anchor="middle" font-weight="800" font-size="30">U</text>
+<text x="136" y="100" fill="#365078" font-size="19">UOOC-GOD · 优课之神</text>
+<text x="72" y="240" font-size="57" font-weight="750" fill="#172d51">UOOC 刷课，</text><text x="72" y="316" font-size="57" font-weight="750" fill="#172d51">到此为止。</text>
+<text x="75" y="381" font-size="20" fill="#617592">AI 自动答题 · 三门并行 · 可视化控制台</text>
+<rect x="75" y="439" width="136" height="42" rx="21" fill="#dce7fb"/><text x="143" y="466" text-anchor="middle" font-size="16" fill="#245bd6">课程多选</text>
+<rect x="224" y="439" width="136" height="42" rx="21" fill="#dce7fb"/><text x="292" y="466" text-anchor="middle" font-size="16" fill="#245bd6">任务启停</text>
+<rect x="373" y="439" width="136" height="42" rx="21" fill="#dce7fb"/><text x="441" y="466" text-anchor="middle" font-size="16" fill="#245bd6">实时日志</text>
+<text x="75" y="572" font-size="16" fill="#8493a9">Node.js + Playwright · 本地运行</text>
+<rect x="707" y="118" width="505" height="420" rx="18" fill="#b9ccee" opacity=".4"/>
+<rect x="695" y="105" width="505" height="420" rx="18" fill="white" stroke="#d1ddef"/>
+<path d="M695 161H1200" stroke="#e5ebf4"/><circle cx="721" cy="133" r="5" fill="#afc1dc"/><circle cx="740" cy="133" r="5" fill="#c4d1e4"/><circle cx="759" cy="133" r="5" fill="#d7e0ed"/>
+<text x="726" y="201" font-size="20" font-weight="600" fill="#253d60">学习任务</text><text x="1168" y="200" font-size="13" text-anchor="end" fill="#8091aa">选择课程</text>
+<g fill="#f6f8fc" stroke="#dce5f1"><rect x="724" y="224" width="446" height="55" rx="8"/><rect x="724" y="289" width="446" height="55" rx="8"/><rect x="724" y="354" width="446" height="55" rx="8"/></g>
+<g fill="#245bd6"><rect x="741" y="242" width="18" height="18" rx="4"/><rect x="741" y="307" width="18" height="18" rx="4"/><rect x="741" y="372" width="18" height="18" rx="4"/></g>
+<g fill="none" stroke="white" stroke-width="2"><path d="M745 251l4 4 7-8"/><path d="M745 316l4 4 7-8"/><path d="M745 381l4 4 7-8"/></g>
+<g fill="#415879" font-size="17"><text x="776" y="258">大学生国家安全教育</text><text x="776" y="323">大学生心理健康</text><text x="776" y="388">军事理论</text></g>
+<text x="728" y="464" font-size="14" fill="#7b8da7">同时学习</text><text x="799" y="464" font-size="15" fill="#245bd6" font-weight="600">3 门课程</text><rect x="1005" y="436" width="165" height="46" rx="8" fill="#245bd6"/><text x="1088" y="465" text-anchor="middle" fill="white" font-size="17">开始学习</text>
+</g></svg>

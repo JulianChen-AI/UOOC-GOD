@@ -1,0 +1,16 @@
+{
+  "name": "uooc-god",
+  "version": "0.1.0",
+  "description": "UOOC-GOD · 优课之神：可视化选课、三门并行、AI 自动答题",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JulianChen-AI/UOOC-GOD.git"
+  }
+}
